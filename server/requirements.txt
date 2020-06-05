@@ -1,6 +1,6 @@
 boto==2.40.0
 defusedxml==0.4.1
-Django==1.9.5
+Django==1.11.29
 django-cors-headers==1.1.0
 django-filter==0.13.0
 django-ses==0.7.0
