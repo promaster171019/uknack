@@ -8,7 +8,7 @@ django-smtp-ssl==1.0
 django-storages==1.4.1
 django-websocket-redis==0.4.6
 django-wysiwyg-redactor==0.4.9
-djangorestframework==3.3.3
+djangorestframework==3.11.2
 gevent==1.1.1
 greenlet==0.4.9
 oauthlib==1.0.3
