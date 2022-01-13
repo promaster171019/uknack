@@ -12,7 +12,7 @@ djangorestframework==3.3.3
 gevent==1.1.1
 greenlet==0.4.9
 oauthlib==1.0.3
-Pillow==3.2.0
+Pillow==9.0.0
 psycopg2==2.6.1
 PyJWT==1.4.0
 pypng==0.0.18
